@@ -1,4 +1,4 @@
-Yes, after creating a VPC, a DHCP option set is automatically created by AWS. DHCP option sets are used to provide configuration parameters to instances in the VPC, such as DNS server addresses and domain names. Here’s an overview of the default DHCP option set and its uses, along with how you can customize it if needed.
+After creating a VPC, a DHCP option set is automatically created by AWS. DHCP option sets are used to provide configuration parameters to instances in the VPC, such as DNS server addresses and domain names. Here’s an overview of the default DHCP option set and its uses, along with how you can customize it if needed.
 
 ### Default DHCP Option Set
 
