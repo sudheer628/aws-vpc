@@ -4,7 +4,7 @@
 
 **Amazon VPC, or Virtual Private Cloud, is a service provided by AWS that allows you to create and manage a virtual network environment.**
 
-**Key Points:**
+**which means**
 
 1. **Isolated Network:** It provides you with a logically isolated network where you can run your AWS resources, such as EC2 instances, RDS databases, and more.
 
