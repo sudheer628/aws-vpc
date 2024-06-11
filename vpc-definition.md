@@ -14,6 +14,6 @@
 
 4. **and Finally** You can connect your VPC to your own corporate data center, making it possible to extend your existing network into the cloud. 
 
-In simple words, i would imagine VPC as           building our own data center within the AWS cloud. 
+In simple words, i would imagine VPC aaaaaaaaaas ---- building our own data center within the AWS cloud. 
 
 ---
